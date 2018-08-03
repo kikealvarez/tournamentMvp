@@ -1,0 +1,11 @@
+basketball
+erwin johnson;magic;4;Team A;G;10;2;7
+michael jordan;air;5;Team A;F;0;10;0
+carmelo anthony;melo;6;Team A;F;15;1;4
+shaquille oneall;shaq;7;Team A;C;20;9;2
+dennis rodman;rodman;8;Team A;C;4;11;1
+sergio rodriguez;chacho;11;Team B;G;18;1;1
+rudy fernandez;rudy;32;Team B;F;8;6;5
+dwayne wade;dwade;24;Teawm B;F;31;3;4
+pau gasol;et;12;Team B;G;21;6;4
+karl a towns;kat;13;Team B;G;7;7;0
